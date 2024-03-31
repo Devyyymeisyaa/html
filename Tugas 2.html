@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BIODATA DEVY MEISYA NUR FADILAH</title>
+</head> 
+<body>
+    <h1 align= "center">BIODATA DIRI</h1>
+    <table width="745" border="1" cellspacing="5" align="center">
+    <td>FOTO</td>
+    <td><img src="Devy Meisya N.jpg" width="200px" height="265px"></td>
+    </tr>
+    <tr>
+         <td>Nama</td>
+         <td>Devy Meisya Nur Fadilah</td>
+    </tr>
+    <tr>
+        <td>TTL</td>
+        <td>Semarang, 18 Mei 2005</td>
+    </tr>
+    <tr>
+        <td>Jenis Kelamin</td>
+        <td><from action="proses.php" method="get">
+            <select name="jenis kelamin">
+                <option value="laki-laki">Laki-laki</option>
+                <option value="perempuan">Perempuan</option>
+            </select>
+            </from></td>
+    </tr>
+    <tr>
+         <td>Agama</td>
+         <td><from action="proses.php" methode="get">
+            <select name="agama">
+                 <option value="islam">Islam</option>
+                 <option value="kristen">Kristen</option>
+                 <option value="hindu">Hindu</option>
+                 <option value="budha">Budha</option>
+                 <option value="konghucu">konghucu</option>
+            </select>
+            <from></td>
+    </tr>
+    <tr>
+        <td>Pekerja</td>
+        <td><from action="proses.php" method= "get">
+            <option value="pns">PNS</option>
+            <option value="wirausaha">Wirausaha</option>
+            <option value ="Staff kementrian Agama">Staff Kementrian Agama</option>
+            <option value = "mahasiswa">Mahasiswa</option>
+        </select>
+        </from></td>
+    </tr>
+    <tr>
+        <td>HOBI
+        <td><o1>
+            <li>Memasak</li>
+            <li>Bernyanyi</li>
+            <li>Travelling</li>
+        </o1></td>
+    </tr>
+    <tr>
+        <td>Motivasi</td>
+        <td></o1>
+            <li> Teruslah bersyukur dan berbuat baik</li>
+            <li> Dibalik kesulitan pasti ada kemudahan </li>
+            <li> Tidak ada yang akan berhasil kecuali kau melakukannya </li>
+        </ul></td>
+    </tr>
+    <tr>
+        <td>NIM</td>
+        <td>23030360031</td>
+    </tr>
+    <tr>
+        <td>kelas</td>
+        <td>2A</td>
+    </tr>
+    <tr>
+        <td>jurusan</td>
+        <td>Manajemen Pendidikan Islam</td>
+    </tr>
+    <tr>
+        <td>Kuliah</td>
+        <td>UIN Walisongo Semarang</td>
+    </tr>
+    <tr>
+        <td>Phone</td>
+        <td>087747940044</td>
+    </tr>
+    <tr>
+        <td>Email</td>
+        <td>devymeisyanf@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Data Diri</td>
+        <td>Aku adalah anak perempuan yang memiliki bakat berjualan</td>
+    </body>
+    </html>
+
+
+
+                            
+
+
+                    
